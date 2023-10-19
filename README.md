@@ -47,7 +47,7 @@ Please follow any contribution guidelines and code of conduct specified for this
 
 ## License
 
-This project is licensed under the MIT License. For details, please see the [LICENSE](https://github.com/Xiangyu2141480/DTS201/blob/main/LICENSE) file.
+This project is licensed under the MIT License. For details, please see the [LICENSE](License/) file.
 
 ---
 
